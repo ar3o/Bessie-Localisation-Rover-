@@ -2,7 +2,7 @@
 
 Adding localisation capibilities to a DFRobot Rover.
 
-Sensor list:
+Current sensor list:
 - Ultrasonic Distance Sensor - HC-SR04
 - Photoresistor
 - Microphone array
