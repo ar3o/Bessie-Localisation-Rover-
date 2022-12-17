@@ -1,6 +1,6 @@
 # Bessie-Localisation-Rover-
 
-Adding localisation capibilities to a DFRobot Rover.
+Adding localisation capibilities to a "DFRobotShop Rover V2".
 
 Current sensor list:
 - Ultrasonic Distance Sensor - HC-SR04
